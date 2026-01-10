@@ -13,3 +13,8 @@ Shadcn installation: Installs Tailwind and Shadcn dependencies and updates neces
 ```bash
 ./addshadcn.sh ./vite-project-name
 ```
+
+ReactRouter installation: ReactRouter dependencies and updates necessary files 
+```bash
+./addreactrouter.sh ./vite-project-name
+```
